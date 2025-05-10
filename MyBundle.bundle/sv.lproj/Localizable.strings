@@ -365,6 +365,7 @@ talk.pod.ir";
 "Settings.ManageSessions.title" = "Hantera aktiva sessioner";
 "Settings.isAutoPlayVideoEnabled" = "Spelar upp videor automatiskt";
 "Settings.manageConnection" = "Hantera anslutning";
+"Settings.userNameCopied" = "Der gewünschte Benutzername wurde kopiert.";
 
 /* Support */
 "Support.title" = "Talk messenger";

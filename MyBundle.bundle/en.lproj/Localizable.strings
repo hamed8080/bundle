@@ -369,11 +369,12 @@ talk.pod.ir";
 "Settings.ManageSessions.title" = "Manage Active Sessions";
 "Settings.isAutoPlayVideoEnabled" = "Playing videos automatically";
 "Settings.manageConnection" = "Manage Connection";
+"Settings.userNameCopied" = "The desired username was copied.";
 
 /* Support */
 "Support.title" = "Talk messenger";
 "Support.version" = "Version: %@";
-"Support.aboutUsText" = "Talk was born in 2016. This messenger was produced and developed with the aim of creating deep and constructive communication and understanding organizational and non-organizational needs. It is hoped that according to the current conditions, Tak will take a stronger step every day on the path of sustainable development and creating a safe and fast platform.";
+"Support.aboutUsText" = "Talk was born in 2016. This messenger was produced and developed with the aim of creating deep and constructive communication and understanding organizational and non-organizational needs. It is hoped that according to the current conditions, Talk will take a stronger step every day on the path of sustainable development and creating a safe and fast platform.";
 "Support.number" = "021-91033000 internal 9";
 "Support.callDetail" = "To contact the Talk support unit, you can use the following numbers to communicate with the relevant experts";
 
