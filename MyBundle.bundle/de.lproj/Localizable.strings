@@ -403,6 +403,7 @@ talk.pod.ir";
 "Messages.ActionMenu.unpinMessage" = "Lösen";
 "Messages.ActionMenu.saveImage" = "In Fotos speichern";
 "Messages.ActionMenu.messageDetail" = "Nachrichtendetails";
+"Messages.ActionMenu.reDownload" = "Erneut herunterladen";
 "Messages.unreadMessages" = "Ungelesene Nachrichten";
 "Messages.deleteForMe" = "Für mich löschen";
 "Messages.deleteForAll" = "Für alle löschen";

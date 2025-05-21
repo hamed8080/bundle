@@ -406,6 +406,7 @@ talk.pod.ir";
 "Messages.ActionMenu.unpinMessage" = "UNPin";
 "Messages.ActionMenu.saveImage" = "Save in Photos";
 "Messages.ActionMenu.messageDetail" = "Message details";
+"Messages.ActionMenu.reDownload" = "Re download";
 "Messages.unreadMessages" = "Unread Messages";
 "Messages.deleteForMe" = "Delete for me";
 "Messages.deleteForAll" = "Delete for all";
