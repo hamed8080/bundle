@@ -367,6 +367,7 @@ talk.pod.ir";
 "Settings.isAutoPlayVideoEnabled" = "Automatisches Abspielen von Videos";
 "Settings.manageConnection" = "Verbindung verwalten";
 "Settings.userNameCopied" = "Der gewünschte Benutzername wurde kopiert.";
+"Settings.saveScrollPositionTitle" = "Scrollposition speichern";
 
 /* Support */
 "Support.title" = "Talk messenger";

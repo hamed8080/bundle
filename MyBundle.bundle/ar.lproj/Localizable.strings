@@ -366,6 +366,7 @@ talk.pod.ir";
 "Settings.isAutoPlayVideoEnabled" = "تشغيل الفيديوهات تلقائيا";
 "Settings.manageConnection" = "إدارة الاتصال";
 "Settings.userNameCopied" = "نام کاربری مورد نظر کپی شد.";
+"Settings.saveScrollPositionTitle" = "حفظ موضع التمرير";
 
 /* Support */
 "Support.title" = "Talk messenger";

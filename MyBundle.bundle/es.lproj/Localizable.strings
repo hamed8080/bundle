@@ -367,6 +367,7 @@ talk.pod.ir";
 "Settings.ManageSessions.title" = "Administrar sesiones activas";
 "Settings.isAutoPlayVideoEnabled" = "Reproducción automática de vídeos";
 "Settings.manageConnection" = "Gestionar conexión";
+"Settings.saveScrollPositionTitle" = "Guardar la posición de desplazamient";
 
 /* Support */
 "Support.title" = "Talk messenger";

@@ -368,6 +368,7 @@ talk.pod.ir";
 "Settings.isAutoPlayVideoEnabled" = "پخش ویدیو به صورت خودکار";
 "Settings.manageConnection" = "مدیریت اتصال";
 "Settings.userNameCopied" = "نام کاربری مورد نظر کپی شد.";
+"Settings.saveScrollPositionTitle" = "ادامه از آخرین محل بازدید";
 
 /* Support */
 "Support.title" = "پیام رسان تاک";
