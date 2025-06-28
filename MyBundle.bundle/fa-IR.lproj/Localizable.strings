@@ -369,6 +369,10 @@ talk.pod.ir";
 "Settings.manageConnection" = "مدیریت اتصال";
 "Settings.userNameCopied" = "نام کاربری مورد نظر کپی شد.";
 "Settings.saveScrollPositionTitle" = "ادامه از آخرین محل بازدید";
+"Settings.DoubleTap.title" = "تنظیمات دابل کلیک";
+"Settings.DoubleTap.noAction" = "بدون تنظیم";
+"Settings.DoubleTap.selectEmoji" = "انتخاب ایموجی";
+"Settings.DoubleTap.reply" = "حالت پاسخ";
 
 /* Support */
 "Support.title" = "پیام رسان تاک";

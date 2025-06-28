@@ -368,6 +368,10 @@ talk.pod.ir";
 "Settings.isAutoPlayVideoEnabled" = "Reproducción automática de vídeos";
 "Settings.manageConnection" = "Gestionar conexión";
 "Settings.saveScrollPositionTitle" = "Guardar la posición de desplazamient";
+"Settings.DoubleTap.title" = "Configuración de doble toque";
+"Settings.DoubleTap.noAction" = "Sin acción";
+"Settings.DoubleTap.selectEmoji" = "Seleccionar emoji";
+"Settings.DoubleTap.reply" = "Modo de respuesta";
 
 /* Support */
 "Support.title" = "Talk messenger";

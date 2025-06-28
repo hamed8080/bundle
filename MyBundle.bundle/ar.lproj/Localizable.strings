@@ -367,6 +367,10 @@ talk.pod.ir";
 "Settings.manageConnection" = "إدارة الاتصال";
 "Settings.userNameCopied" = "نام کاربری مورد نظر کپی شد.";
 "Settings.saveScrollPositionTitle" = "حفظ موضع التمرير";
+"Settings.DoubleTap.title" = "إعدادات النقر المزدوج";
+"Settings.DoubleTap.noAction" = "لا إجراء";
+"Settings.DoubleTap.selectEmoji" = "اختيار رمز تعبيري";
+"Settings.DoubleTap.reply" = "وضع الرد";
 
 /* Support */
 "Support.title" = "Talk messenger";

@@ -371,6 +371,10 @@ talk.pod.ir";
 "Settings.manageConnection" = "Manage Connection";
 "Settings.userNameCopied" = "The desired username was copied.";
 "Settings.saveScrollPositionTitle" = "Save scroll position";
+"Settings.DoubleTap.title" = "Double click settings";
+"Settings.DoubleTap.noAction" = "No action";
+"Settings.DoubleTap.selectEmoji" = "Select Emoji";
+"Settings.DoubleTap.reply" = "Reply Mode";
 
 /* Support */
 "Support.title" = "Talk messenger";

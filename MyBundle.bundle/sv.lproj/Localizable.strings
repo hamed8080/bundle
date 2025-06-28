@@ -367,6 +367,10 @@ talk.pod.ir";
 "Settings.manageConnection" = "Hantera anslutning";
 "Settings.userNameCopied" = "Der gewünschte Benutzername wurde kopiert.";
 "Settings.saveScrollPositionTitle" = "Spara rullningsposition";
+"Settings.DoubleTap.title" = "Inställningar för dubbelklick";
+"Settings.DoubleTap.noAction" = "Ingen åtgärd";
+"Settings.DoubleTap.selectEmoji" = "Välj emoji";
+"Settings.DoubleTap.reply" = "Svars­läge";
 
 /* Support */
 "Support.title" = "Talk messenger";

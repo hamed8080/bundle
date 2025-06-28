@@ -368,6 +368,10 @@ talk.pod.ir";
 "Settings.manageConnection" = "Verbindung verwalten";
 "Settings.userNameCopied" = "Der gewünschte Benutzername wurde kopiert.";
 "Settings.saveScrollPositionTitle" = "Scrollposition speichern";
+"Settings.DoubleTap.title" = "Doppeltippen-Einstellungen";
+"Settings.DoubleTap.noAction" = "Keine Aktion";
+"Settings.DoubleTap.selectEmoji" = "Emoji auswählen";
+"Settings.DoubleTap.reply" = "Antwortmodus";
 
 /* Support */
 "Support.title" = "Talk messenger";
