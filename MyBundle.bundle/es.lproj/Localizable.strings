@@ -495,3 +495,11 @@ talk.pod.ir";
 "AdminLimitHistoryTimeDialog.header" = "Mostrar mensajes";
 "AdminLimitHistoryTimeDialog.title" = "Mostrar únicamente mensajes de un período de tiempo específico seleccionado.";
 "AdminLimitHistoryTimeDialog.chooseDate" = "Elija fecha";
+
+/* DownlaodsManager */
+"DownalodsManager.inDownloadingQueue" = "En progreso";
+"DownalodsManager.title" = "Descargas";
+
+/* UploadsManager */
+"UploadsManager.inUploadingQueue" = "En progreso";
+"UploadsManager.title" = "Subidas";

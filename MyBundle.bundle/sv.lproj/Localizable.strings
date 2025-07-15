@@ -494,3 +494,11 @@ talk.pod.ir";
 "AdminLimitHistoryTimeDialog.header" = "Visa meddelanden";
 "AdminLimitHistoryTimeDialog.title" = "Visa endast meddelanden från en specifik vald tid.";
 "AdminLimitHistoryTimeDialog.chooseDate" = "Välj datum";
+
+/* DownlaodsManager */
+"DownalodsManager.inDownloadingQueue" = "Pågår";
+"DownalodsManager.title" = "Nedladdningar";
+
+/* UploadsManager */
+"UploadsManager.inUploadingQueue" = "Pågår";
+"UploadsManager.title" = "Uppladdningar";

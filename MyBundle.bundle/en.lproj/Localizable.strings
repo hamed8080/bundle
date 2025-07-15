@@ -502,3 +502,11 @@ talk.pod.ir";
 "AdminLimitHistoryTimeDialog.header" = "Display messages";
 "AdminLimitHistoryTimeDialog.title" = "Only display messages from a specific selected time.";
 "AdminLimitHistoryTimeDialog.chooseDate" = "Choose date";
+
+/* DownlaodsManager */
+"DownalodsManager.inDownloadingQueue" = "In progress";
+"DownalodsManager.title" = "Downloads";
+
+/* UploadsManager */
+"UploadsManager.inUploadingQueue" = "In progress";
+"UploadsManager.title" = "Uploads";

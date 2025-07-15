@@ -496,3 +496,11 @@ talk.pod.ir";
 "AdminLimitHistoryTimeDialog.header" = "مشاهده پیام ها";
 "AdminLimitHistoryTimeDialog.title" = "در صورتی که میخواهید نمایش پیام ها را محدود کنید یک تاریخ انتخاب کنید. درغیر این‌صورت کاربر جدید همه پیام‌ها را مشاهده می‌کند.";
 "AdminLimitHistoryTimeDialog.chooseDate" = "نمایش پیام ها از تاریخ";
+
+/* DownlaodsManager */
+"DownalodsManager.inDownloadingQueue" = "در صف دانلود";
+"DownalodsManager.title" = "دانلود ها";
+
+/* UploadsManager */
+"UploadsManager.inUploadingQueue" = "در صف آپلود";
+"UploadsManager.title" = "آپلود ها";

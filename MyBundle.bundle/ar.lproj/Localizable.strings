@@ -494,3 +494,11 @@ talk.pod.ir";
 "AdminLimitHistoryTimeDialog.header" = "عرض الرسائل";
 "AdminLimitHistoryTimeDialog.title" = "عرض الرسائل من وقت محدد فقط.";
 "AdminLimitHistoryTimeDialog.chooseDate" = "اختر التاريخ";
+
+/* DownlaodsManager */
+"DownalodsManager.inDownloadingQueue" = "جارٍ التنزيل";
+"DownalodsManager.title" = "التنزيلات";
+
+/* UploadsManager */
+"UploadsManager.inUploadingQueue" = "جارٍ الرفع";
+"UploadsManager.title" = "التحميلات";
