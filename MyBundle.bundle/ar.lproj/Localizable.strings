@@ -75,6 +75,7 @@
 "General.noDescription" = "بدون وصف!";
 "General.noResult" = "لا توجد نتيجة";
 "General.unknown" = "غير معروف";
+"General.settings" = "الإعدادات";
 
 /* Tabs */
 "Tab.chats" = "المحادثات";
@@ -502,3 +503,7 @@ talk.pod.ir";
 /* UploadsManager */
 "UploadsManager.inUploadingQueue" = "جارٍ الرفع";
 "UploadsManager.title" = "التحميلات";
+
+/* SaveToAlbumAccessDialog */
+"SaveToAlbumAccessDialog.title" = "تم رفض الوصول";
+"SaveToAlbumAccessDialog.message" = "فشل حفظ الصورة في المكتبة. لمنح التطبيق الإذن بحفظ الصور في المكتبة، يرجى الذهاب إلى الإعدادات -> Talk -> الصور.";

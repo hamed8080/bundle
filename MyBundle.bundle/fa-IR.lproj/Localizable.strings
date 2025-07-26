@@ -76,6 +76,7 @@
 "General.noDescription" = "بدون توضیحات!";
 "General.noResult" = "نتیجه ای وجود ندارد";
 "General.unknown" = "نامشخص";
+"General.settings" = "تنظیمات";
 
 /* Tabs */
 "Tab.chats" = "گفتگو ها";
@@ -504,3 +505,7 @@ talk.pod.ir";
 /* UploadsManager */
 "UploadsManager.inUploadingQueue" = "در صف آپلود";
 "UploadsManager.title" = "آپلود ها";
+
+/* SaveToAlbumAccessDialog */
+"SaveToAlbumAccessDialog.title" = "عدم دسترسی به آلبوم";
+"SaveToAlbumAccessDialog.message" = "عدم دسترسی به ذخیره عکس در گالری. لطفآ ابتدا به Settings -> Talk -> Photos رفته و دسترسی ذخیره تصاویر را روشن کنید.";

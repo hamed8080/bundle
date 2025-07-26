@@ -75,6 +75,8 @@
 "General.noDescription" = "Ingen beskrivning!";
 "General.noResult" = "Det finns inget resultat";
 "General.unknown" = "okänd";
+"General.settings" = "Inställningar";
+
 
 /* Tabs */
 "Tab.chats" = "Chattar";
@@ -502,3 +504,7 @@ talk.pod.ir";
 /* UploadsManager */
 "UploadsManager.inUploadingQueue" = "Pågår";
 "UploadsManager.title" = "Uppladdningar";
+
+/* SaveToAlbumAccessDialog */
+"SaveToAlbumAccessDialog.title" = "Åtkomst nekad";
+"SaveToAlbumAccessDialog.message" = "Det gick inte att spara bilden i biblioteket. För att ge appen åtkomst att spara bilder, gå till Inställningar -> Talk -> Foton.";

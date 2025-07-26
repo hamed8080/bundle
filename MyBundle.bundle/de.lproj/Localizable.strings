@@ -76,6 +76,7 @@
 "General.noDescription" = "Keine Beschreibung!";
 "General.noResult" = "Es gibt kein Ergebnis";
 "General.unknown" = "unbekannt";
+"General.settings" = "Einstellungen";
 
 /* Tabs */
 "Tab.chats" = "Chats";
@@ -503,3 +504,7 @@ talk.pod.ir";
 /* UploadsManager */
 "UploadsManager.inUploadingQueue" = "In Bearbeitung";
 "UploadsManager.title" = "Uploads";
+
+/* SaveToAlbumAccessDialog */
+"SaveToAlbumAccessDialog.title" = "Zugriff verweigert";
+"SaveToAlbumAccessDialog.message" = "Bild konnte nicht in der Mediathek gespeichert werden. Um der App den Zugriff auf das Speichern von Bildern zu erlauben, gehe zu Einstellungen -> Talk -> Fotos.";
