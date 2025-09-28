@@ -12,6 +12,7 @@
 "Errors.failedTryAgain" = "Es ist ein Fehler aufgetreten! Versuchen Sie es erneut.";
 "Errors.Login.Verify.incorrectCode" = "Ihr Bestätigungscode ist inkorrekt.";
 "Errors.hasAlreadyJoinedError" = "Sie sind der Gruppe bereits beigetreten.";
+"Errors.warningCantAddMorePinThread" = "Sie dürfen nicht mehr als 5 Pins hinzufügen."
 
 /* General */
 "General.next" = "Weiter";

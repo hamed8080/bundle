@@ -12,6 +12,7 @@
 "Errors.failedTryAgain" = "یک خطایی رخ داده مجدد سعی کنید.";
 "Errors.Login.Verify.incorrectCode" = "کد تایید صحیح نمی باشد.";
 "Errors.hasAlreadyJoinedError" = "شما قبلا به این گروه ملحق شده اید.";
+"Errors.warningCantAddMorePinThread" = "شما مجاز به اضافه کردن بیشتر از ۵ پین نیستید."
 
 /* General */
 "General.next" = "بعدی";
@@ -178,10 +179,10 @@ talk.pod.ir";
 /* System Events */
 "SMT.isTyping" = "در حال نوشتن...";
 "SMT.recordVoice" = "در حال ضبط صدا";
-"SMT.uploadPicture" = "در حال ارسال تصویر";
-"SMT.uploadVideo" = "در حال ارسال ویدیو";
+"SMT.uploadPicture" = "در حال بارگذاری عکس";
+"SMT.uploadVideo" = "در حال بارگذاری ویدیو";
 "SMT.uploadSound" = "در حال ارسال فایل صوتی";
-"SMT.uploadFile" = "در حال ارسال فایل";
+"SMT.uploadFile" = "در حال بارگذاری فایل";
 
 /* Thread */
 "Thread.normal" = "معمولی(دو نفره یا گروهی)";

@@ -12,6 +12,7 @@
 "Errors.failedTryAgain" = "¡Se produjo un error! Inténtalo de nuevo.";
 "Errors.Login.Verify.incorrectCode" = "Tu código de verificación es incorrecto.";
 "Errors.hasAlreadyJoinedError" = "Ya te has unido al grupo.";
+"Errors.warningCantAddMorePinThread" = "No está permitido agregar más de 5 pines."
 
 /* General */
 "General.next" = "Siguiente";
