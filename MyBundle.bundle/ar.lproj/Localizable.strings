@@ -12,7 +12,7 @@
 "Errors.failedTryAgain" = "حدث خطأ! يرجى المحاولة مرة أخرى.";
 "Errors.Login.Verify.incorrectCode" = "رمز التحقق الخاص بك غير صحيح.";
 "Errors.hasAlreadyJoinedError" = "لقد انضممت بالفعل إلى المجموعة.";
-"Errors.warningCantAddMorePinThread" = "لا يُسمح لك بإضافة أكثر من 5 دبابيس."
+"Errors.warningCantAddMorePinThread" = "لا يُسمح لك بإضافة أكثر من 5 دبابيس.";
 
 /* General */
 "General.next" = "التالي";

@@ -12,7 +12,7 @@
 "Errors.failedTryAgain" = "Ett fel inträffade! Försök igen.";
 "Errors.Login.Verify.incorrectCode" = "Din verifieringskod är felaktig.";
 "Errors.hasAlreadyJoinedError" = "Du har redan gått med i gruppen.";
-"Errors.warningCantAddMorePinThread" = "Du får inte lägga till fler än 5 nålar."
+"Errors.warningCantAddMorePinThread" = "Du får inte lägga till fler än 5 nålar.";
 
 /* General */
 "General.next" = "Nästa";

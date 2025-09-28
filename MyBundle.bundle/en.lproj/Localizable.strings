@@ -12,7 +12,7 @@
 "Errors.failedTryAgain" = "An error occured! try again.";
 "Errors.Login.Verify.incorrectCode" = "Your verification code is incorrect.";
 "Errors.hasAlreadyJoinedError" = "You have already joined the group.";
-"Errors.warningCantAddMorePinThread" = "You are not allowed to add more than 5 pins."
+"Errors.warningCantAddMorePinThread" = "You are not allowed to add more than 5 pins.";
 
 /* General */
 "General.next" = "Next";

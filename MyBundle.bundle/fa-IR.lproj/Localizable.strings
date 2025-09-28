@@ -12,7 +12,7 @@
 "Errors.failedTryAgain" = "یک خطایی رخ داده مجدد سعی کنید.";
 "Errors.Login.Verify.incorrectCode" = "کد تایید صحیح نمی باشد.";
 "Errors.hasAlreadyJoinedError" = "شما قبلا به این گروه ملحق شده اید.";
-"Errors.warningCantAddMorePinThread" = "شما مجاز به اضافه کردن بیشتر از ۵ پین نیستید."
+"Errors.warningCantAddMorePinThread" = "شما مجاز به اضافه کردن بیشتر از ۵ پین نیستید.";
 
 /* General */
 "General.next" = "بعدی";
