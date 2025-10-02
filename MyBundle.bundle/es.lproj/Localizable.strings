@@ -335,6 +335,7 @@ talk.pod.ir";
 "Login.verifyCode" = "Código de verificación";
 "Login.Verify.timer" = "Quedaban %@ para recibir el nuevo código";
 "Login.Verify.resendCode" = "Reenviar codigo";
+"Login.phoneNumberHint" = "9123456789";
 
 /* Configuración */
 "Settings.title" = "Configuración";

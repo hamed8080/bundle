@@ -333,6 +333,7 @@ talk.pod.ir";
 "Login.verifyCode" = "التحقق من كود";
 "Login.Verify.timer" = "بقي الساعة %@ لتلقي الرمز الجديد";
 "Login.Verify.resendCode" = "أعد إرسال الرمز";
+"Login.phoneNumberHint" = "9123456789";
 
 /* Settings */
 "Settings.title" = "الإعدادات";
