@@ -200,6 +200,7 @@ talk.pod.ir";
 "Thread.callCanceled" =  "تم إلغاء المكالمة %@";
 "Thread.callDeclined" = "تم رفض المكالمة بواسطة %@ في %@";
 "Thread.callMissed" = "مكالمة فائتة في %@";
+"Thread.callEndedDuration" = "- مدة %@";
 "Thread.unpin" = "إلغاء التثبيت";
 "Thread.pin" = "تثبيت";
 "Thread.mute" = "كتم";

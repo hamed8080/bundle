@@ -202,6 +202,7 @@ talk.pod.ir";
 "Thread.callCanceled" = "تماس پایان پذیرفت %@";
 "Thread.callDeclined" = "رد تماس توسط %@ در %@";
 "Thread.callMissed" = "تماس از دست رفته در %@";
+"Thread.callEndedDuration" = "- مدت تماس %@";
 "Thread.unpin" = "برداشتن از بالا";
 "Thread.pin" = "چسباندن به بالا";
 "Thread.mute" = "قطع اعلانات";

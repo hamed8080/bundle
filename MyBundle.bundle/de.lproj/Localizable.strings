@@ -201,6 +201,7 @@ talk.pod.ir";
 "Thread.callCanceled" =  "Anruf abgebrochen %@";
 "Thread.callDeclined" = "Anruf abgelehnt von %@ um %@";
 "Thread.callMissed" = "Verpasster Anruf um %@";
+"Thread.callEndedDuration" = "- Dauer %@";
 "Thread.unpin" = "Lösen";
 "Thread.pin" = "Anheften";
 "Thread.mute" = "Stummschalten";

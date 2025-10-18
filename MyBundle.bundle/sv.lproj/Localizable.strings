@@ -201,6 +201,7 @@ talk.pod.ir";
 "Thread.callCanceled" = "Samtal avbrutet %@";
 "Thread.callDeclined" = "Samtal avvisades av %@ kl %@";
 "Thread.callMissed" = "Missat samtal kl %@";
+"Thread.callEndedDuration" = "- Varaktighet %@";
 "Thread.unpin" = "Avnåla";
 "Thread.pin" = "Nåla";
 "Thread.mute" = "Ljuddämpa";

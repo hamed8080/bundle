@@ -200,6 +200,7 @@ talk.pod.ir";
 "Thread.callCanceled" =  "Call canceled %@";
 "Thread.callDeclined" = "Call declined by %@ at %@";
 "Thread.callMissed" = "Missed call at %@";
+"Thread.callEndedDuration" = "- Duration %@";
 "Thread.unpin" = "Unpin";
 "Thread.pin" = "Pin";
 "Thread.mute" = "Mute";
