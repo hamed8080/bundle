@@ -77,6 +77,7 @@
 "General.noDescription" = "No description!";
 "General.noResult" = "There is no result";
 "General.unknown" = "unknown";
+"General.camera" = "Camera";
 
 /* Tabs */
 "Tab.chats" = "Chats";
@@ -336,6 +337,7 @@ talk.pod.ir";
 "Login.Verify.timer" = "%@ remained to receive the new code";
 "Login.Verify.resendCode" = "Resend code";
 "Login.phoneNumberHint" = "9123456789";
+"Login.phoneNumberTitle" = "Phone Number";
 
 /* Settings */
 "Settings.title" = "Settings";

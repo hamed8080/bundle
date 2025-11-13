@@ -77,7 +77,7 @@
 "General.noResult" = "Det finns inget resultat";
 "General.unknown" = "okänd";
 "General.settings" = "Inställningar";
-
+"General.camera" = "kamera";
 
 /* Tabs */
 "Tab.chats" = "Chattar";
@@ -336,6 +336,7 @@ talk.pod.ir";
 "Login.Verify.timer" = "%@ återstod för att ta emot den nya koden";
 "Login.Verify.resendCode" = "Återsänd koden";
 "Login.phoneNumberHint" = "9123456789";
+"Login.phoneNumberTitle" = "Telefonnummer";
 
 /* Settings */
 "Settings.title" = "Inställningar";

@@ -77,6 +77,7 @@
 "General.noResult" = "لا توجد نتيجة";
 "General.unknown" = "غير معروف";
 "General.settings" = "الإعدادات";
+"General.camera" = "آلة تصوير";
 
 /* Tabs */
 "Tab.chats" = "المحادثات";
@@ -335,6 +336,7 @@ talk.pod.ir";
 "Login.Verify.timer" = "بقي الساعة %@ لتلقي الرمز الجديد";
 "Login.Verify.resendCode" = "أعد إرسال الرمز";
 "Login.phoneNumberHint" = "9123456789";
+"Loign.phoneNumberTitle" = "رقم التليفون";
 
 /* Settings */
 "Settings.title" = "الإعدادات";
