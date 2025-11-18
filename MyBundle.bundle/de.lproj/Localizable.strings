@@ -20,6 +20,7 @@
 "General.delete" = "Löschen";
 "Genreal.deleteConversation" = "Konversation löschen";
 "General.cancel" = "Abbrechen";
+"General.cancel2" = "Abbrechen";
 "General.showMore" = "Mehr anzeigen";
 "General.showLess" = "Weniger anzeigen";
 "General.close" = "Schließen";

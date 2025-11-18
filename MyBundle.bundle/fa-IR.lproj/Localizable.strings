@@ -20,6 +20,7 @@
 "General.delete" = "حذف";
 "Genreal.deleteConversation" = "حذف گفتگو";
 "General.cancel" = "انصراف";
+"General.cancel2" = "لغو";
 "General.showMore" = "نمایش بیشتر";
 "General.showLess" = "نمایش کمتر";
 "General.close" = "بستن";
@@ -350,7 +351,7 @@ talk.pod.ir";
 "Settings.logout" = "خروج";
 "Settings.notifictionSettings" = "تنظیمات اعلانات";
 "Settings.download" = "تنظیمات دانلود";
-"Settings.about" = "درباره تاک";
+"Settings.about" = "درباره ما";
 "Settings.userName" = "نام کاربری";
 "Settings.phoneNumber" = "شماره همراه";
 "Settings.bio" = "درباره من";

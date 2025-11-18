@@ -20,6 +20,7 @@
 "General.delete" = "Radera";
 "Genreal.deleteConversation" = "Radera konversation";
 "General.cancel" = "Avbryt";
+"General.cancel2" = "Avbryt";
 "General.showMore" = "Visa mer";
 "General.showLess" = "Visa mindre";
 "General.close" = "Stäng";
