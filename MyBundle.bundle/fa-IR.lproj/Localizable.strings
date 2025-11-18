@@ -21,6 +21,7 @@
 "Genreal.deleteConversation" = "حذف گفتگو";
 "General.cancel" = "انصراف";
 "General.cancel2" = "لغو";
+"General.cancelAll" = "لغو همه";
 "General.showMore" = "نمایش بیشتر";
 "General.showLess" = "نمایش کمتر";
 "General.close" = "بستن";
@@ -84,7 +85,7 @@
 /* Tabs */
 "Tab.chats" = "گفتگو ها";
 "Tab.contacts" = "مخاطبین";
-"Tab.archives" = "بایگانی";
+"Tab.archives" =‌ "پوشه بایگانی";
 "Tab.folders" = "پوشه ها";
 "Tab.settings" = "تنظیمات";
 

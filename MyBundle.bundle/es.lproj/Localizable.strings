@@ -21,6 +21,7 @@
 "Genreal.deleteConversation" = "Eliminar conversación";
 "General.cancel" = "Cancelar";
 "General.cancel2" = "Cancelar";
+"General.cancelAll" = "Cancelar todo";
 "General.showMore" = "Mostrar más";
 "General.showLess" = "Mostrar menos";
 "General.close" = "Cerrar";
