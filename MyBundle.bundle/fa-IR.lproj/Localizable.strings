@@ -516,3 +516,7 @@ talk.pod.ir";
 /* SaveToAlbumAccessDialog */
 "SaveToAlbumAccessDialog.title" = "عدم دسترسی به آلبوم";
 "SaveToAlbumAccessDialog.message" = "عدم دسترسی به ذخیره عکس در گالری. لطفآ ابتدا به Settings -> Talk -> Photos رفته و دسترسی ذخیره تصاویر را روشن کنید.";
+
+/* CameraAccessDialog */
+"CameraAccessDialog.title" = "عدم دسترسی به دوربین";
+"CameraAccessDialog.message" = "عدم دسترسی به دوربین لطفآ ابتدا به Settings -> Talk -> Camera رفته و دسترسی دوربین را روشن کنید.";

@@ -514,3 +514,7 @@ talk.pod.ir";
 /* SaveToAlbumAccessDialog */
 "SaveToAlbumAccessDialog.title" = "Åtkomst nekad";
 "SaveToAlbumAccessDialog.message" = "Det gick inte att spara bilden i biblioteket. För att ge appen åtkomst att spara bilder, gå till Inställningar -> Talk -> Foton.";
+
+/* CameraAccessDialog */
+"CameraAccessDialog.title" = "Ingen kameratillgång";
+"CameraAccessDialog.message" = "Ingen tillgång till kameran. Gå först till Inställningar -> Talk -> Kamera och aktivera kamerabehörigheten.";

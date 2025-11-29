@@ -517,3 +517,7 @@ talk.pod.ir";
 /* UploadsManager */
 "UploadsManager.inUploadingQueue" = "In progress";
 "UploadsManager.title" = "Uploads";
+
+/* CameraAccessDialog */
+"CameraAccessDialog.title" = "No Camera Access";
+"CameraAccessDialog.message" = "No camera access. Please go to Settings -> Talk -> Camera and enable camera permissions.";

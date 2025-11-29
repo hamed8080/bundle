@@ -515,3 +515,7 @@ talk.pod.ir";
 /* SaveToAlbumAccessDialog */
 "SaveToAlbumAccessDialog.title" = "Zugriff verweigert";
 "SaveToAlbumAccessDialog.message" = "Bild konnte nicht in der Mediathek gespeichert werden. Um der App den Zugriff auf das Speichern von Bildern zu erlauben, gehe zu Einstellungen -> Talk -> Fotos.";
+
+/* CameraAccessDialog */
+"CameraAccessDialog.title" = "Kein Kamerazugriff";
+"CameraAccessDialog.message" = "Kein Kamerazugriff. Bitte gehen Sie zuerst zu Einstellungen -> Talk -> Kamera und aktivieren Sie den Kamerazugriff.";

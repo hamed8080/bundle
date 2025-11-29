@@ -514,3 +514,7 @@ talk.pod.ir";
 /* SaveToAlbumAccessDialog */
 "SaveToAlbumAccessDialog.title" = "تم رفض الوصول";
 "SaveToAlbumAccessDialog.message" = "فشل حفظ الصورة في المكتبة. لمنح التطبيق الإذن بحفظ الصور في المكتبة، يرجى الذهاب إلى الإعدادات -> Talk -> الصور.";
+
+/* CameraAccessDialog */
+"CameraAccessDialog.title" = "عدم الوصول إلى الكاميرا";
+"CameraAccessDialog.message" = "لا يوجد وصول إلى الكاميرا. يرجى الذهاب أولاً إلى Settings -> Talk -> Camera وتفعيل إذن الكاميرا.";

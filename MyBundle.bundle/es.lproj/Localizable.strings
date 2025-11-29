@@ -515,3 +515,7 @@ talk.pod.ir";
 /* SaveToAlbumAccessDialog */
 "SaveToAlbumAccessDialog.title" = "Acceso denegado";
 "SaveToAlbumAccessDialog.message" = "No se pudo guardar la imagen en la biblioteca. Para permitir que la aplicación guarde imágenes en la biblioteca, ve a Configuración -> Talk -> Fotos.";
+
+/* CameraAccessDialog */
+"CameraAccessDialog.title" = "Sin acceso a la cámara";
+"CameraAccessDialog.message" = "No hay acceso a la cámara. Por favor, vaya primero a Configuración -> Talk -> Cámara y active el acceso a la cámara.";
