@@ -418,6 +418,7 @@ talk.pod.ir";
 "Messages.ActionMenu.saveImage" = "ذخیره در گالری";
 "Messages.ActionMenu.messageDetail" = "اطلاعات پیام";
 "Messages.ActionMenu.reDownload" = "بارگذاری مجدد";
+"Messages.ActionMenu.share" = "اشتراک گذاری";
 "Messages.unreadMessages" = "پیام های خوانده نشده";
 "Messages.deleteForMe" = "حذف برای خودم";
 "Messages.deleteForAll" = "حذف برای همه";

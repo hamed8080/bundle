@@ -420,6 +420,7 @@ talk.pod.ir";
 "Messages.ActionMenu.messageDetail" = "Message details";
 "Messages.ActionMenu.reDownload" = "Re download";
 "Messages.ActionMenu.messageDetail" = "Message detail";
+"Messages.ActionMenu.share" = "Share";
 "Messages.unreadMessages" = "Unread Messages";
 "Messages.deleteForMe" = "Delete for me";
 "Messages.deleteForAll" = "Delete for all";
