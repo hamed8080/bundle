@@ -416,6 +416,7 @@ talk.pod.ir";
 "Messages.ActionMenu.saveImage" = "Spara i Bilder";
 "Messages.ActionMenu.messageDetail" = "Meddelandedetaljer";
 "Messages.ActionMenu.reDownload" = "Ladda ner igen";
+"Messages.ActionMenu.messageDetail" = "Meddelandedetaljer";
 "Messages.unreadMessages" = "Olästa meddelanden";
 "Messages.deleteForMe" = "Ta bort åt mig";
 "Messages.deleteForAll" = "Ta bort för alla";

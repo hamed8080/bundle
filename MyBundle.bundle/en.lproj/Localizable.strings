@@ -419,6 +419,7 @@ talk.pod.ir";
 "Messages.ActionMenu.saveImage" = "Save in Photos";
 "Messages.ActionMenu.messageDetail" = "Message details";
 "Messages.ActionMenu.reDownload" = "Re download";
+"Messages.ActionMenu.messageDetail" = "Message detail";
 "Messages.unreadMessages" = "Unread Messages";
 "Messages.deleteForMe" = "Delete for me";
 "Messages.deleteForAll" = "Delete for all";
