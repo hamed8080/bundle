@@ -36,7 +36,7 @@
         },
         {
             "server": "sandbox",
-            "socket": "wss://chat-sandbox.sandpod.ir/ws",
+            "socket": "wss://api.sandpod.ir/ws",
             "sso": "https://accounts.pod.ir",
             "social": "https://sandbox.sandpod.ir/srv/basic-platform",
             "file": "http://podspace.sandpod.ir:8080",
