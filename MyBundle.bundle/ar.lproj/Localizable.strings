@@ -379,6 +379,8 @@ talk.pod.ir";
 "Settings.DoubleTap.noAction" = "لا إجراء";
 "Settings.DoubleTap.selectEmoji" = "اختيار رمز تعبيري";
 "Settings.DoubleTap.reply" = "وضع الرد";
+"Settings.connectionSettings" = "Connection Settings";
+"Settings.proxyAddress" = "Proxy Address";
 
 /* Support */
 "Support.title" = "Talk messenger";

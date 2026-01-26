@@ -352,8 +352,6 @@ talk.pod.ir";
 "Settings.notifictionSettings" = "Notification Settings";
 "Settings.download" = "Download Settings";
 "Settings.about" = "About Talk";
-
-
 "Settings.userName" = "Username";
 "Settings.phoneNumber" = "Phone Number";
 "Settings.bio" = "Biography";
@@ -382,6 +380,9 @@ talk.pod.ir";
 "Settings.DoubleTap.noAction" = "No action";
 "Settings.DoubleTap.selectEmoji" = "Select Emoji";
 "Settings.DoubleTap.reply" = "Reply Mode";
+"Settings.connectionSettings" = "Connection Settings";
+"Settings.proxyAddress" = "Proxy Address";
+
 
 /* Support */
 "Support.title" = "Talk messenger";

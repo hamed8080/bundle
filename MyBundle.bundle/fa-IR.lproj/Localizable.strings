@@ -381,6 +381,8 @@ talk.pod.ir";
 "Settings.DoubleTap.noAction" = "بدون تنظیم";
 "Settings.DoubleTap.selectEmoji" = "انتخاب ایموجی";
 "Settings.DoubleTap.reply" = "حالت پاسخ";
+"Settings.connectionSettings" = "تنظیمات اتصال";
+"Settings.proxyAddress" = "آدرس پروکسی";
 
 /* Support */
 "Support.title" = "پیام رسان تاک";

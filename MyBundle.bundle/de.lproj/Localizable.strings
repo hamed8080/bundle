@@ -380,6 +380,8 @@ talk.pod.ir";
 "Settings.DoubleTap.noAction" = "Keine Aktion";
 "Settings.DoubleTap.selectEmoji" = "Emoji auswählen";
 "Settings.DoubleTap.reply" = "Antwortmodus";
+"Settings.connectionSettings" = "Connection Settings";
+"Settings.proxyAddress" = "Proxy Address";
 
 /* Support */
 "Support.title" = "Talk messenger";
