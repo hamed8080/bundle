@@ -82,6 +82,9 @@
 "General.unknown" = "desconocido";
 "General.settings" = "Configuración";
 "General.camera" = "cámara";
+"General.callPhoneNumber" = "Llamar al número de teléfono";
+"General.sendSMSPhoneNumber" = "Enviar SMS";
+"General.copyPhoneNumber" = "Copiar número de teléfono";
 
 /* Pestañas */
 "Tab.chats" = "Chats";

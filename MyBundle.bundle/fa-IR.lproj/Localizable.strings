@@ -81,6 +81,9 @@
 "General.unknown" = "نامشخص";
 "General.settings" = "تنظیمات";
 "General.camera" = "دوربین";
+"General.callPhoneNumber" = "تماس با کاربر";
+"General.sendSMSPhoneNumber" = "ارسال پیامک";
+"General.copyPhoneNumber" = "کپی شماره";
 
 /* Tabs */
 "Tab.chats" = "گفتگو ها";

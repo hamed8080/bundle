@@ -80,6 +80,9 @@
 "General.unknown" = "غير معروف";
 "General.settings" = "الإعدادات";
 "General.camera" = "آلة تصوير";
+"General.callPhoneNumber" = "الاتصال برقم الهاتف";
+"General.sendSMSPhoneNumber" = "إرسال رسالة نصية";
+"General.copyPhoneNumber" = "نسخ رقم الهاتف";
 
 /* Tabs */
 "Tab.chats" = "المحادثات";

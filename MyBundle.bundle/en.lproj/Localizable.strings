@@ -80,6 +80,9 @@
 "General.noResult" = "There is no result";
 "General.unknown" = "unknown";
 "General.camera" = "Camera";
+"General.callPhoneNumber" = "Call phone number";
+"General.sendSMSPhoneNumber" = "Send SMS";
+"General.copyPhoneNumber" = "Copy phone number";
 
 /* Tabs */
 "Tab.chats" = "Chats";

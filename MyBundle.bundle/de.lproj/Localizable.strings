@@ -81,6 +81,9 @@
 "General.unknown" = "unbekannt";
 "General.settings" = "Einstellungen";
 "General.camera" = "Kamera";
+"General.callPhoneNumber" = "Telefonnummer anrufen";
+"General.sendSMSPhoneNumber" = "SMS senden";
+"General.copyPhoneNumber" = "Telefonnummer kopieren";
 
 /* Tabs */
 "Tab.chats" = "Chats";

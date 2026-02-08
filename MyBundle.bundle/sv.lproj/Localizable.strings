@@ -80,6 +80,9 @@
 "General.unknown" = "okänd";
 "General.settings" = "Inställningar";
 "General.camera" = "kamera";
+"General.callPhoneNumber" = "Ring telefonnummer";
+"General.sendSMSPhoneNumber" = "Skicka SMS";
+"General.copyPhoneNumber" = "Kopiera telefonnummer";
 
 /* Tabs */
 "Tab.chats" = "Chattar";
