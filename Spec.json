@@ -7,7 +7,7 @@
     },
     "server": {
         "server": "main",
-        "socket": "wss://msg.pod.ir/ws",
+        "socket": "wss://msg1.pod.ir/ws",
         "sso": "https://accounts.pod.ir",
         "social": "https://api.pod.ir/srv/core",
         "file": "https://podspace.pod.ir",
@@ -22,7 +22,7 @@
     "servers": [
         {
             "server": "main",
-            "socket": "wss://msg.pod.ir/ws",
+            "socket": "wss://msg1.pod.ir/ws",
             "sso": "https://accounts.pod.ir",
             "social": "https://api.pod.ir/srv/core",
             "file": "https://podspace.pod.ir",
